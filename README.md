@@ -1,7 +1,6 @@
 # MERN E-Commerce Website
 
 Introducing my cutting-edge E-commerce platform, developed using the powerful MERN (MongoDB, Express.js, React, Node.js) technology stack. Seamlessly integrating frontend and backend components, our E-commerce project provides a feature-rich and user-friendly online shopping experience. From an engaging React-based user interface to a robust Node.js backend, our platform offers secure user authentication, dynamic product catalog management, responsive design, and streamlined checkout processes integrated through Rajorpay. Built on MongoDB, the database ensures efficient data storage and retrieval, while Express.js facilitates smooth API interactions. Embrace the future of online retail with our MERN E-commerce project, combining the best of modern web development to deliver a sophisticated and efficient shopping environment for both customers and administrators.
-
 <br/>
 
 [Click here to Access our Website](https://dineshtextiles.netlify.app/)  (Site performance may get affected due to use of free server)
